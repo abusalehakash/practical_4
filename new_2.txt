@@ -1,1 +1,4 @@
 second file
+This is the second line of file 2
+This is the third line of file 2
+This is the fourth line of file 2
